@@ -1,1 +1,1 @@
-git clone https://github.com/gsnishanth/cpp-movie-booking-systems .
+git clone https://github.com/gsnishanth/cpp-movie-booking-system.
